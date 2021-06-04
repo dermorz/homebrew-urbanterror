@@ -10,5 +10,5 @@ brew tap dermorz/urbanterror
 
 ### Install in Home directory
 ```
-brew cask install --appdir=~/Applications urbanterror
+brew install --cask --appdir=~/Applications urbanterror
 ```
