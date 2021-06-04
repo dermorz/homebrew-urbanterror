@@ -5,7 +5,7 @@
 ## Installation
 ### Tap formula
 ```
-brew tap moritzpein/urbanterror
+brew tap dermorz/urbanterror
 ```
 
 ### Install in Home directory
